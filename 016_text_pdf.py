@@ -1,4 +1,4 @@
-'''La biblioteca para extraer texto de python pypdf2 '''
+# La biblioteca para extraer texto de python pypdf2
 
 import tabula
 import pandas as pd
